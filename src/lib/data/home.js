@@ -4,5 +4,6 @@ export let images= [
     {idx: 3, src:'/assets/images/corporate/merch.jpg', alt:'image 3'},
     {idx: 4, src:'/assets/images/corporate/trophies.jpg', alt:'image 4'},
     {idx: 5, src:'/assets/images/corporate/marketing.jpg', alt:'image 5'},
+    {idx: 6, src:'/assets/images/corporate/planning.jpg', alt:'image 6'},
 ];
 
